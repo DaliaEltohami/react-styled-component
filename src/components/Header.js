@@ -20,7 +20,7 @@ export default function Header() {
               but so does your audience. Create connections with your users as
               you engage in genuine discussion.
             </p>
-            <Button color="#fff" bg="#ff0099">
+            <Button $color="#fff" $bg="#ff0099">
               Get Started For Free
             </Button>
           </div>

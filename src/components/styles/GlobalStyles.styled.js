@@ -26,6 +26,14 @@ const GlobalStyles = createGlobalStyle`
     max-width: 100%;
   }
 
+  ul{
+    list-style-type: none;
+  }
+
+  li{
+    list-style: none;
+  }
+
 `;
 
 export default GlobalStyles;
